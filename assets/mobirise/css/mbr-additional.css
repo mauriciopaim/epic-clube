@@ -792,7 +792,7 @@ pre {
 }
 .cid-qqj49z5VWa {
   padding-top: 45px;
-  padding-bottom: 45px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-qqj49z5VWa .mbr-section-subtitle {
@@ -1242,6 +1242,7 @@ pre {
 }
 .cid-qqvAZkSpkg .mbr-section-subtitle {
   color: #767676;
+  text-align: center;
 }
 .cid-qqvAZkSpkg .formoid {
   margin: auto;
@@ -1331,6 +1332,9 @@ pre {
   .cid-qqvAZkSpkg .mbr-subscribe > * {
     margin: 0 0.5rem;
   }
+}
+.cid-qqvAZkSpkg H2 {
+  text-align: center;
 }
 .cid-qqvATPv4Rd {
   padding-top: 90px;
